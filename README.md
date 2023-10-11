@@ -4,7 +4,7 @@ This is the result of a team of four people working on a project. The data was f
 People involved in this project:
 GitHub IDs
 1) luthien4    
-2) XuanChienHoang
-3) HariniMahadevan
-4) mehregan59
+2) mehregan59
+3) XuanChienHoang
+4) HariniMahadevan
 
